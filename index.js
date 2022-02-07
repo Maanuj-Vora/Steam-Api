@@ -2,9 +2,8 @@ const express = require("express")
 const app = express()
 const development_changes = require("./development/changes")
 const development_info = require("./development/info")
-
-
 const helper = require("./helper")
+
 app.use(express.json({ extended: false }))
 
 app.use(helper.cors);
