@@ -7,3 +7,4 @@ venv/
 npm-debug.log
 .DS_Store
 /*.env
+mysql-db.log
