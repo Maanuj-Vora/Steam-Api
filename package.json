@@ -1,0 +1,29 @@
+{
+  "name": "steam-api",
+  "version": "1.0.0",
+  "description": "A WIP Package that serves as an endpoint for Steam Store Information",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.2",
+    "steam-user": "^4.20.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maanuj-Vora/Steam-Api.git"
+  },
+  "keywords": [
+    "steam",
+    "api",
+    "games"
+  ],
+  "author": "Maanuj Vora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maanuj-Vora/Steam-Api/issues"
+  },
+  "homepage": "https://github.com/Maanuj-Vora/Steam-Api#readme"
+}
