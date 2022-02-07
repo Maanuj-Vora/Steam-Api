@@ -3,3 +3,7 @@ node_modules/
 venv/
 .vscode/
 .ipynb_checkpoints/
+/node_modules
+npm-debug.log
+.DS_Store
+/*.env
