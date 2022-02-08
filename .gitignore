@@ -1,4 +1,10 @@
-.env
+node_modules/
 .DS_Store
+venv/
 .vscode/
-.mysql-db.log
+.ipynb_checkpoints/
+/node_modules
+npm-debug.log
+.DS_Store
+/*.env
+mysql-db.log
